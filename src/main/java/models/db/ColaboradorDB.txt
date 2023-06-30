@@ -1,0 +1,9 @@
+1,isabelle,Isabelle Moreira,12345,2000.0,1,false
+2,danilo,Danilo,12345,1200.0,0,false
+3,victor,Victor,12345,1200.0,2,false
+4,gui_gui,Guilherme Cesario,12345,2000.0,1,false
+5,talice,Talice de Paula,12345,3000.0,1,false
+6,eonio,Eonio,12345,12000.0,1,false
+7,davi,Davi Martins,12345,1200.0,2,false
+8,manuelpadeiro,Emanuel Padeiro,12345,1000.0,2,false
+9,LevyKonorat,Levy Konorat,12345,2500.0,2,true

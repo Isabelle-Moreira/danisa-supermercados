@@ -1,0 +1,9 @@
+3,6,296,Sabonete,5.0
+3,7,91,Manteiga,10.0
+7,8,134,Queijo,15.0
+3,9,1000,Detergente,15.0
+3,10,300,Nutella,40.0
+3,11,11,Abobrinha,3.5
+8,13,300,Pao de sal,1.0
+9,14,200,Bolo de Chocolate,10.0
+9,15,2000,Pao de queijo,1.5
